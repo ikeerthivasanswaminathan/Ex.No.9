@@ -60,11 +60,11 @@ To demonstrate the ability of text-to-Video generation tools to reproduce an exi
 
 ## 1.	The Original Video: 
 
-[Given Video](./Given%20-%20Firefly%20%E2%80%9CGenerate%20a%20short%20video%20of%20a%20waterfall%20flowing%20down%20a%20rocky%20cliff%20in%20a%20forest%20during%20sunset.mp4)
+[The Original Video](https://github.com/ikeerthivasanswaminathan/Ex.No.9/blob/main/Given%20%20Firefly%20%E2%80%9CGenerate%20a%20short%20video%20of%20a%20waterfall%20flowing%20down%20a%20rocky%20cliff%20in%20a%20forest%20during%20sunset..mp4)
 
 ## 2.	The Final Generated Video: 
 
-[Generated Video](./Output%20-%20Firefly%20%E2%80%9CGenerate%20a%20cinematic%20video%20of%20a%20waterfall%20cascading%20down%20a%20tall%20rocky%20cliff%20in%20a%20dense%20gree.mp4)
+[The Final Generated Video](https://github.com/ikeerthivasanswaminathan/Ex.No.9/blob/main/Output%20%20Firefly%20%E2%80%9CGenerate%20a%20cinematic%20video%20of%20a%20waterfall%20cascading%20down%20a%20tall%20rocky%20cliff%20in%20a%20dense%20gree.mp4)
 
 ## 3.	Prompts Used: The text prompts created during the experiment.
 
